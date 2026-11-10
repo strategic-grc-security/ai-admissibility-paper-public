@@ -1,6 +1,6 @@
-# The AI Admissibility Framework: Governing AI Behavior
+# AI Admissibility: Governing AI Behavior
 
-This repository contains the public working paper for the AI Admissibility Framework.
+This repository contains the public working paper for the AI Admissibility architectural approach.
 
 ## Working Paper
 
@@ -8,7 +8,7 @@ This repository contains the public working paper for the AI Admissibility Frame
 
 ## Related Repository
 
-The broader framework materials, diagrams, and executive summary are available in the AI Admissibility Framework public repository.
+The broader corpus of materials, diagrams, and executive summary are available in the AI Admissibility public repository.
 
 ## License and Use
 
