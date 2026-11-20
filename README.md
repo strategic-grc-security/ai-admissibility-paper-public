@@ -4,7 +4,7 @@
 
 The full AI Admissibility paper is no longer publicly hosted.
 
-If you are interested in the methodology, attended a prior presentation, or were referred to this work, please contact Diane R. Jones for access.
+If you are interested in the methodology, attended a prior presentation, or were referred to this work, please contact me at diane@strtegicgrcsecurity.com for access.
 
 ## Related Repository
 
