@@ -1,10 +1,10 @@
 # AI Admissibility: Governing AI Behavior
 
-This repository contains the public working paper for the AI Admissibility architectural approach.
-
 ## Working Paper
 
-[Download the working paper v1.0](docs/ai-admissibility-framework-governing-ai-behavior-v1.0.pdf)
+The full AI Admissibility paper is no longer publicly hosted.
+
+If you are interested in the methodology, attended a prior presentation, or were referred to this work, please contact Diane R. Jones for access.
 
 ## Related Repository
 
